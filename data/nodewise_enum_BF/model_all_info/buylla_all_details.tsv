@@ -1,0 +1,12 @@
+Sr No.	Node name	k	EF	EUF	RoF	NCF
+1	SCR	4	4010	50	20	17
+2	PLT	1	1	1	1	1
+3	ARF	1	1	1	1	1
+4	AUXIAA	1	1	1	1	1
+5	AUXIN	1	1	1	1	1
+6	SHR	1	1	1	1	1
+7	JKD	2	1	1	1	1
+8	MGP	3	14	1	1	1
+9	WOX5	5	-	732	94	75
+Total			-	36600	1880	1275
+Sampled			True	False	False	False

@@ -1,0 +1,13 @@
+Sr No.	Node name	k	EF	EUF	RoF	NCF
+1	Fgf8_g	3	55	9	8	8
+2	Fgf8_p	1	1	1	1	1
+3	Emx2_g	4	16148	114	52	46
+4	Emx2_p	1	1	1	1	1
+5	Pax6_g	3	55	9	8	8
+6	Pax6_p	1	1	1	1	1
+7	Coup_tfi_g	2	2	2	2	2
+8	Coup_tfi_p	1	1	1	1	1
+9	Sp8_g	2	2	2	2	2
+10	Sp8_p	1	1	1	1	1
+Total			195390800	36936	13312	11776
+Sampled			True	False	False	False

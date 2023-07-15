@@ -1,0 +1,15 @@
+Sr No.	Node name	k	EF	EUF	RoF	NCF
+1	SNAI1	3	26	7	6	6
+2	LEF1	3	26	7	6	6
+3	Twist	2	2	2	2	2
+4	SNAI2	4	8074	57	26	23
+5	ZEB1	3	29	2	2	2
+6	N_bcatenin_H	2	1	1	1	1
+7	ZEB1_H	5	-	5119	310	213
+8	b_catenin_TCF4	3	29	2	2	2
+9	miR_34	3	26	7	6	6
+10	miR_200	5	-	1775	162	119
+11	Ecadherin_mRNA	5	-	114	52	46
+12	TGFb_secr	2	2	2	2	2
+Total			-	324024087794400	234653552640	92679987456
+Sampled			True	True	True	True

@@ -1,0 +1,10 @@
+Node_num	Node_name	k	EF	scEUF	scRoF	scNCF
+0	Snai2	3	exact	exact	exact	exact
+1	ESE2	3	exact	exact	exact	exact
+2	p16	5	approx	exact	exact	exact
+3	E2F	3	exact	exact	exact	exact
+4	Cyclin	4	exact	exact	exact	exact
+5	TELasa	1	exact	exact	exact	exact
+6	NFkB	4	exact	exact	exact	exact
+7	Rb	3	exact	exact	exact	exact
+8	p53	4	exact	exact	exact	exact

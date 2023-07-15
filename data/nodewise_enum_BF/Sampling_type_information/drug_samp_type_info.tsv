@@ -1,0 +1,14 @@
+Node_num	Node_name	k	EF	scEUF	scRoF	scNCF
+0	EGFR	1	exact	exact	exact	exact
+1	ERK1/2	1	exact	exact	exact	exact
+2	PI3K	2	exact	exact	exact	exact
+3	AKT	1	exact	exact	exact	exact
+4	GSK3_beta	1	exact	exact	exact	exact
+5	MDM2	2	exact	exact	exact	exact
+6	TP53	3	exact	exact	exact	exact
+7	PTEN	1	exact	exact	exact	exact
+8	PARP1	1	exact	exact	exact	exact
+9	BRCA1	1	exact	exact	exact	exact
+10	BCL_2	1	exact	exact	exact	exact
+11	BAX	2	exact	exact	exact	exact
+12	CYCD1	4	exact	exact	exact	exact

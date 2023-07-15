@@ -1,0 +1,18 @@
+Sr No.	Node name	k	EF	EUF	RoF	NCF
+1	Bmp2	2	3	1	1	1
+2	canWnt	1	1	1	1	1
+3	Dkk1	3	52	7	6	6
+4	Fgf8	3	54	7	6	6
+5	Foxc1/2	2	2	2	2	2
+6	GATAs	3	52	2	2	2
+7	IsI1	5	-	6780	420	286
+8	Mesp1	2	2	1	1	1
+9	Nkx2_5	7	-	-	15976	6363
+10	Tbx1	1	1	1	1	1
+11	Tbx5	6	-	7190326	3648	1735
+12	exogen_BMP2_I	1	1	1	1	1
+13	exogen_BMP2_II	1	1	1	1	1
+14	exogen_canWnt_I	1	1	1	1	1
+15	exogen_canWnt_II	1	1	1	1	1
+Total			-	-	3524801495040	454663329120
+Sampled			True	True	True	True

@@ -1,0 +1,12 @@
+Sr No.	Node name	k	EF	EUF	RoF	NCF
+1	Snai2	3	54	7	6	6
+2	ESE2	3	54	7	6	6
+3	p16	5	-	1718	136	96
+4	E2F	3	28	2	2	2
+5	Cyclin	4	8103	43	14	11
+6	TELasa	1	1	1	1	1
+7	NFkB	4	8048	36	18	17
+8	Rb	3	55	5	4	4
+9	p53	4	8103	48	18	15
+Total			-	62550593280	177666048	77552640
+Sampled			True	True	True	True

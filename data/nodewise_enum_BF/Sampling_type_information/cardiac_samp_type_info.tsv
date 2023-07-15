@@ -1,0 +1,16 @@
+Node_num	Node_name	k	EF	scEUF	scRoF	scNCF
+0	Bmp2	2	exact	exact	exact	exact
+1	canWnt	1	exact	exact	exact	exact
+2	Dkk1	3	exact	exact	exact	exact
+3	Fgf8	3	exact	exact	exact	exact
+4	Foxc1/2	2	exact	exact	exact	exact
+5	GATAs	3	exact	exact	exact	exact
+6	IsI1	5	approx	exact	exact	exact
+7	Mesp1	2	exact	exact	exact	exact
+8	Nkx2_5	7	approx	approx	exact	exact
+9	Tbx1	1	exact	exact	exact	exact
+10	Tbx5	6	approx	exact	exact	exact
+11	exogen_BMP2_I	1	exact	exact	exact	exact
+12	exogen_BMP2_II	1	exact	exact	exact	exact
+13	exogen_canWnt_I	1	exact	exact	exact	exact
+14	exogen_canWnt_II	1	exact	exact	exact	exact
