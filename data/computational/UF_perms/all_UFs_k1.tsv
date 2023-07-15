@@ -1,0 +1,4 @@
+all_UFs	non-NCF RoF	non-RoF EUF	IEF	NCF	avg_sen	bias
+00	False	False	True	False	0.0	0
+01	False	False	False	True	1.0	1
+11	False	False	True	False	0.0	2
