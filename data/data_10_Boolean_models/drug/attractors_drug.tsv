@@ -1,0 +1,14 @@
+node	Division	Apoptosis
+EGFR	1	0
+ERK1/2	1	0
+PI3K	1	0
+AKT	1	0
+GSK3_beta	0	1
+MDM2	0	0
+TP53	0	1
+PTEN	0	1
+PARP1	1	0
+BRCA1	0	1
+BCL_2	1	0
+BAX	0	1
+CYCD1	1	0

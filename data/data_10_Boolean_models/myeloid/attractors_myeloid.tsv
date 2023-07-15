@@ -1,0 +1,12 @@
+node	Erythrocyte	Megakaryocyte	Monocyte	Granulocyte
+GATA_2	0	0	0	0
+GATA_1	1	1	0	0
+FOG_1	1	1	0	0
+EKLF	1	0	0	0
+Fli_1	0	1	0	0
+SCL	1	1	0	0
+C/EBP_alpha	0	0	1	1
+PU_1	0	0	1	1
+cJun	0	0	1	0
+EgrNab	0	0	1	0
+Gfi_1	0	0	0	1
