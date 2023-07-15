@@ -14,3 +14,4 @@ This folder contains 10 files labeled RoF_cat_XX.tsv, where X takes values 0 to 
 - cana_depth: canalyzing depth of the RoF
 - expressions: the Boolean expression of the RoF
 - isomorphisms: all permutations and negations of the inputs of the RoF
+### All_NCF
