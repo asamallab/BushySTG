@@ -19,3 +19,4 @@ This folder contains 10 files labeled RoF_cat_XX.tsv, where X takes values 0 to 
 ### all_RoF
 - each file in this folder contains all RoFs for a given number of inputs
 ### samp_type_info.tsv
+- contains information regarding the types of sampling (exact or approximation) depending on the number of inputs to the associated node. 
