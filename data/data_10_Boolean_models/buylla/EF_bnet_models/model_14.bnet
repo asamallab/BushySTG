@@ -1,0 +1,10 @@
+targets,	factors
+SCR,	(!SHR & !JKD & !MGP & SCR) | (!SHR & JKD & !MGP & !SCR) | (!SHR & JKD & !MGP & SCR) | (!SHR & JKD & MGP & !SCR) | (SHR & JKD & !MGP & SCR) | (SHR & JKD & MGP & !SCR) | (SHR & JKD & MGP & SCR)
+PLT,	(ARF)
+ARF,	(!AUXIAA)
+AUXIAA,	(!AUXIN)
+AUXIN,	(!AUXIN) | (AUXIN)
+SHR,	(SHR)
+JKD,	(SHR & SCR)
+MGP,	(!SHR & !WOX5 & SCR) | (!SHR & WOX5 & !SCR) | (!SHR & WOX5 & SCR) | (SHR & !WOX5 & SCR) | (SHR & WOX5 & !SCR)
+WOX5,	(!SHR & !ARF & !WOX5 & !SCR & MGP) | (!SHR & !ARF & !WOX5 & SCR & !MGP) | (!SHR & !ARF & !WOX5 & SCR & MGP) | (!SHR & !ARF & WOX5 & !SCR & MGP) | (!SHR & !ARF & WOX5 & SCR & MGP) | (!SHR & ARF & !WOX5 & SCR & !MGP) | (!SHR & ARF & !WOX5 & SCR & MGP) | (!SHR & ARF & WOX5 & !SCR & MGP) | (!SHR & ARF & WOX5 & SCR & !MGP) | (SHR & !ARF & !WOX5 & !SCR & MGP) | (SHR & !ARF & !WOX5 & SCR & MGP) | (SHR & !ARF & WOX5 & SCR & MGP) | (SHR & ARF & !WOX5 & !SCR & MGP) | (SHR & ARF & !WOX5 & SCR & !MGP) | (SHR & ARF & WOX5 & SCR & !MGP) | (SHR & ARF & WOX5 & SCR & MGP)
