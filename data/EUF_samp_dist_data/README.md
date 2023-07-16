@@ -1,1 +1,2 @@
 - Three pickle files 'k3_10000_obtained.pkl', 'k4_20000_obtained.pkl' and 'k5_1000000_obtained.pkl' contain the rankwise frequency distribution data of 10000, 20000 and 1000000 functions respectively. The .pkl file contain data for 3,4 and 5-inputs respectively.
+- 'EUF_sampling_distribution.pdf' is the rank-frequency distribution plot associated to the three datasets.
