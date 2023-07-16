@@ -17,6 +17,6 @@ This folder contains 10 files labeled RoF_cat_XX.tsv, where X takes values 0 to 
 ### all_NCF
 - each file in this folder contains all NCFs for a given number of inputs
 ### all_RoF
-- each file in this folder contains all RoFs for a given number of inputs. To get the text file corresponding to 7-inputs extract the file 'all_RoF7.txt 2.tar.xz.002'. A different compressed file will be obtained with the name 'all_RoF7.txt 2.tar.xz'. Now extracting this file will provide the required .txt file 'all_RoF7.txt'
+- each file in this folder contains all RoFs for a given number of inputs. To get the text file corresponding to 7-inputs extract the file 'all_RoF7.txt 2.tar.xz.002'. A new compressed file will be generated with the name 'all_RoF7.txt 2.tar.xz'. Now extracting this file will provide the required .txt file 'all_RoF7.txt'
 ### samp_type_info.tsv
 - contains information regarding the types of sampling (exact or approximation) depending on the number of inputs to the associated node. 
