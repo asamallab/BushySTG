@@ -1,5 +1,5 @@
 ### unique_perm_k
-- There are 8 folders (for k = {1,2,...,8}) . Each of the folder contains four files with names <ensemble>_unique_perm.tsv. This files
+- There are 8 folders (for k = {1,2,...,8}) . Each of the folder contains four files with names \<ensemble\>_unique_perm.tsv. This files
   provide the number of non-equivalent pemutations ('No_of_unique_perms' in the file) for all or sampled BFs depending on the value of k
   and the ensemble.
 ### bio_2650_unique_perm_dataframe.tsv
