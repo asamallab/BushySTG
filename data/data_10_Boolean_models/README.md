@@ -16,5 +16,5 @@
 - 1e5_sampled_models: The folders 'gonadal' and 'corrales' contain this subfolder. This subfolder has 4 .pkl file containing $10^5$ sampled models of 4 ensembles respectively those satisfy the fixed point constraints.
 - 1e6_sampled_models: This subfolders consists of $10^6$ sampled models as .pkl format when the number of plausible models satisfying the fixed point constraint for some ensemble is more than $10^6$ (except for 'gonadal' and 'corrales').
 ### Other subfolders in 'buylla' folder
-- EF_bnet_models: This folder contains the first $20$ models of sampled EF ensemble of RSCN-GRN ('buylla') in BoolNet (.bnet) file format.
-- 
+- EF_bnet_models: contains the first $20$ models of sampled EF ensemble of RSCN-GRN ('buylla') in BoolNet (.bnet) file format.
+- results: contains 'basin_props_data/EF/EF_basin_props_example.tsv'. The tsv file contains the values of G-density, average in-degree of non-GoE states and the average transient lengths of GoE states for the $20$ .bmet models in 'EF_bnet_models'.
