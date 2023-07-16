@@ -9,7 +9,7 @@
 - emt_senescent: EMT-Senescence-GRN
 - corrales: FOS-GRN
 - gonadal: GSD-GRN
-### Files and subfolders in the 10 folders
-- edges_'model_name'.tsv
+## Files and subfolders in the 10 folders
+### edges_'model_name'.tsv
  contains the edgelist of the network along with the signs of the edges (activatory: 'a' or inhibitory: 'i')
 - attractors_'model_name'.tsv
