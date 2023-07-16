@@ -12,4 +12,4 @@
 ## Files and subfolders in the 10 folders
 - edges_<model_name>.tsv: contains the edgelist of the network along with the signs of the edges (activatory: 'a' or inhibitory: 'i')
 - attractors_<model_name>.tsv: contains the biological fixed point attractors that ecah model recovers.
-- 
+- Exhaustive_models: This subfolder contains all plausible models for some ensemble ('EF','scEUF','scRoF','scNCF') as .pkl file format whenever the cardianlity of all plausible models is less than $$10^6$$,<br>
