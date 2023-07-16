@@ -16,3 +16,5 @@
 - 1e5_sampled_models: The folders 'gonadal' and 'corrales' contain this subfolder. This subfolder has 4 .pkl file containing $10^5$ sampled models of 4 ensembles respectively those satisfy the fixed point constraints.
 - 1e6_sampled_models: This subfolders consists of $10^6$ sampled models as .pkl format when the number of plausible models satisfying the fixed point constraint for some ensemble is more than $10^6$ (except for 'gonadal' and 'corrales').
 ### Other subfolders in 'buylla' folder
+- EF_bnet_models: This folder contains the first $20$ models of sampled EF ensemble of RSCN-GRN ('buylla') in BoolNet (.bnet) file format.
+- 
