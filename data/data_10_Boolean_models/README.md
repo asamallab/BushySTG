@@ -1,4 +1,4 @@
-## Folder names ('model_name') and their associated abbreviated form used in the manuscript
+## Folder names (<model_name>) and their associated abbreviated form used in the manuscript
 - buylla: RSCN-GRN
 - sullivan: EMT-GRN
 - cortical: NCD-GRN
@@ -10,6 +10,6 @@
 - corrales: FOS-GRN
 - gonadal: GSD-GRN
 ## Files and subfolders in the 10 folders
-### edges_'model_name'.tsv
-- contains the edgelist of the network along with the signs of the edges (activatory: 'a' or inhibitory: 'i')
-### attractors_'model_name'.tsv
+- edges_<model_name>.tsv: contains the edgelist of the network along with the signs of the edges (activatory: 'a' or inhibitory: 'i')
+- attractors_<model_name>.tsv: contains the biological fixed point attractors that ecah model recovers.
+- 
