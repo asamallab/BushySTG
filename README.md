@@ -13,7 +13,7 @@ Contains all the codes necessary for reproducing the results in this manuscript.
 ### 2. data:
 Contains all the data necessary for reproducing the results in this manuscript.
 
-<img src="BushySTG_2.png">
+<img src="BushySTG_3_300.png">
 
 ## CITATION
 P. Sil#, A. Subbaroyan#, Saumitra Kulkarni, O. C. Martin* and A. Samal*. Biologically meaningful regulatory logic enhances the convergence rate in Boolean networks and bushiness of their state transition graph.
