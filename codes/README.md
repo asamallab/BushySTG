@@ -1,3 +1,7 @@
+* BF_properties: computes differernt properties of Boolean functions. (file derived from https://github.com/asamallab/MCBF)
+* BF_checkers: checks whether a given BF satisfies biologically meaningful properties.  (file derived from https://github.com/asamallab/MCBF)
+
+  
 In case you use the codes provided herein please cite the following manuscript:
 
 ## CITATION
