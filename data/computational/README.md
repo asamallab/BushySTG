@@ -20,3 +20,6 @@ This folder contains 10 files labeled RoF_cat_XX.tsv, where X takes values 0 to 
 - each file in this folder contains all RoFs for a given number of inputs. To get the text file corresponding to 7-inputs extract the file 'all_RoF7.txt 2.tar.xz.002'. A new compressed file will be generated with the name 'all_RoF7.txt 2.tar.xz'. Now extraction of  this file will provide the required .txt file 'all_RoF7.txt'
 ### samp_type_info.tsv
 - contains information regarding the types of sampling (exact or approximation) depending on the number of inputs to the associated node.
+
+## CITATION
+P. Sil#, A. Subbaroyan#, Saumitra Kulkarni, O. C. Martin* and A. Samal*. Biologically meaningful regulatory logic enhances the convergence rate in Boolean networks and bushiness of their state transition graph.
