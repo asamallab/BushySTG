@@ -4,7 +4,7 @@
 * BF_converters: used to convert one format of a BF to another. (file derived from https://github.com/asamallab/MCBF)
 * RoF_checker: used to check if a BF is a RoF. (file derived from https://github.com/asamallab/MCBF)
 
-In case you use the codes provided herein please cite the following manuscript:
+The other codes are provided as Jupyter notebooks with comments that explain the code. In case you use the codes provided herein please cite the following manuscript:
 
 ## CITATION
 P. Sil#, A. Subbaroyan#, Saumitra Kulkarni, O. C. Martin* and A. Samal*. Biologically meaningful regulatory logic enhances the convergence rate in Boolean networks and bushiness of their state transition graph.
