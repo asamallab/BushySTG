@@ -9,3 +9,6 @@
 ### model_all_info
 - This folder contains tsv files of the form <model_name>_all_details.tsv. The tsv file contains all the information present in
   <model_name>_model_stats.tsv along with the name of the nodes and their in-degrees.
+
+## CITATION
+P. Sil#, A. Subbaroyan#, Saumitra Kulkarni, O. C. Martin* and A. Samal*. Biologically meaningful regulatory logic enhances the convergence rate in Boolean networks and bushiness of their state transition graph.
