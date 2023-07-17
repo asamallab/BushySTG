@@ -18,3 +18,6 @@
 ### Other subfolders in 'buylla' folder
 - EF_bnet_models: contains the first $20$ models of sampled EF ensemble of RSCN-GRN ('buylla') in BoolNet (.bnet) file format.
 - results: contains 'basin_props_data/EF/EF_basin_props_example.tsv'. The tsv file contains the values of G-density, average in-degree of non-GoE states and the average transient lengths of GoE states for the $20$ (.bnet) models of 'EF_bnet_models' subfolder.
+
+## CITATION
+P. Sil#, A. Subbaroyan#, Saumitra Kulkarni, O. C. Martin* and A. Samal*. Biologically meaningful regulatory logic enhances the convergence rate in Boolean networks and bushiness of their state transition graph.
