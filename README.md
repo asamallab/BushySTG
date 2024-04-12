@@ -1,6 +1,6 @@
 # BushySTG
 ## About
-BushySTG repository contains the codes and data associated with the following manuscript: 
+BushySTG repository contains the codes and data associated with the following research article: 
 
 Priyotosh Sil<sup>#</sup>, Ajay Subbaroyan<sup>#</sup>, Saumitra Kulkarni, Olivier C. Martin* and Areejit Samal*, 
 [<i>Biologically meaningful regulatory logic enhances the convergence rate in Boolean networks and bushiness of their state transition graph</i>](https://academic.oup.com/bib/article/25/3/bbae150/7641194), Briefings in Bioinformatics, 25(3):bbae150, 2024. <br>
